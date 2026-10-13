@@ -24,7 +24,7 @@ I turn raw data into clear insights. I'm a fresher building hands-on experience 
 
 - Professional Course in Data Analytics with AI, Easy courses 
 - BCA, IGNOU
-- Higher secondary(Plus Two)-Bio-Maths
+- Higher secondary(Plus Two),Bio-Maths
 
 ## 🌱 Currently
 
