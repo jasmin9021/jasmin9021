@@ -1,6 +1,6 @@
 # Hi, I'm Jasmin 👋
 
-**Aspiring Data Analyst | MIS Analyst| BCA Graduate | Based in Thrissur, India**
+**Aspiring Data Analyst | MIS Analyst| MIS Executive | BCA Graduate | Based in Thrissur, India**
 
 I turn raw data into clear insights. I'm a fresher building hands-on experience in data analytics, dashboards and reporting, and I'm currently completing a Professional Course in Data Analytics with AI. I'm looking for opportunities as a **Data Analyst, MIS Analyst or MIS Executive**.
 
